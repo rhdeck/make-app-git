@@ -1,0 +1,21 @@
+{
+  "name": "make-app-git",
+  "version": "1.0.0",
+  "description": "Make-app helper for initializing a git repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhdeck/make-app-git.git"
+  },
+  "author": "Ray Deck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhdeck/make-app-git/issues"
+  },
+  "homepage": "https://github.com/rhdeck/make-app-git#readme",
+  "makeApp": { "runEarly": "npm run make-app-git" },
+  "bin": "index.js"
+}
