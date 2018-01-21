@@ -19,5 +19,6 @@
   "makeApp": {
     "runEarly": "npm run make-app-git"
   },
-  "bin": "index.js"
+  "bin": "index.js",
+  "dependencies": {}
 }
