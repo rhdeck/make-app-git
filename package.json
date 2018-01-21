@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/rhdeck/make-app-git#readme",
   "makeApp": {
-    "runEarly": "npm run make-app-git"
+    "runEarly": "make-app-git"
   },
   "bin": "index.js",
   "dependencies": {}
